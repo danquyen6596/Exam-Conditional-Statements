@@ -138,7 +138,7 @@ public class ConvertNumToText {
                 System.out.println("Sixteen");
                 break;
             case 7:
-                System.out.println("Seveneen");
+                System.out.println("Seventeen");
                 break;
             case 8:
                 System.out.println("Eighteen");

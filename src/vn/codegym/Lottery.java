@@ -6,7 +6,7 @@ public class Lottery {
     Scanner scan = new Scanner(System.in);
     String lottery = "";
     String num0 = "0";
-    int money = 100;
+    int money = 1000;
     int opt;
     Random rd = new Random();
 
